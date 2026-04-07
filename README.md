@@ -37,7 +37,7 @@ This app is designed to promote **responsible eco-tourism**. All sighting data c
 
 ## Built By
 **Shebin S Illikkal** — Flutter & FlutterFlow Developer from Kerala
-📧 [Shebinsillikkl@gmail.com](mailto:Shebinsillikkl@gmail.com)
+📧 [Shebinsillikkal@gmail.com](mailto:Shebinsillikkal@gmail.com)
 📞 +91 9745461686
 💬 [WhatsApp](https://wa.me/919745461686)
 
